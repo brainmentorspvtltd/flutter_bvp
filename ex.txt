@@ -1,0 +1,29 @@
+Generate Emp Salary Slip
+Employee —> Id , Name , Basic Salary
+Compute - HRA 30% of the Basic Salary
+DA - 10% of the Basic Salary
+TA - 20% of the Basic Salary
+Bonus - 5% of the Basic Salary
+PF - 5% From Emp and 5% from Employer
+Stdin, stdout - Hint
+
+Print
+Id - 1001
+Name - Ram Kumar Sharma (Title Case)
+Basic Salary  - $ 10,000.00
+HRA-     $3,000.00
+TA - 
+DA- 
+Bonus 
+PF - 
+Gross Salary - BS + HRA + DA  + TA + bonus - PF
+NetSalary - GS - TAX
+TAX - 10L. —30%
+7L - 10L - 20%
+7L 5L - 10%
+
+
+
+
+
+
