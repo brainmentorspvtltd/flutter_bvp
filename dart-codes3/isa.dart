@@ -13,6 +13,11 @@ abstract class Account {
     print("Cons2 ");
   }
 
+  Account.cons3(String name, double balance) {
+    this.name = name;
+    this.balance = balance;
+    print("I am Account cons3 Cons");
+  }
   void deposit() {
     print("Account Deposit ");
   }
@@ -48,6 +53,11 @@ class SavingAccount extends Account {
     print("Saving Account Default Cons Call");
   }
   //redirection Constructor syntax
+  SavingAccount.secondCons(String name, double balance, double roi)
+      : super.cons3(name, balance) {
+    this.roi = roi;
+    print("I am Second Cons");
+  }
   SavingAccount.mycons() : this();
   /*SavingAccount.mycons(double roi) : this(){
   //: super.cons(100.20) {
