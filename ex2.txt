@@ -1,0 +1,18 @@
+Account (Parent)
+SavingAccount (Child)
+Get ROI - 4% (Annual)
+Withdraw with limit
+
+CurrentAccount (Business)
+ROI 5% Pay
+No Limit
+OverDraft limit
+
+FixedDepositAccount
+ROI - 7%
+LockingPeriod - 2Y
+
+Follow SRP and DRY
+
+
+
