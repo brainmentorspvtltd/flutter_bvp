@@ -1,0 +1,21 @@
+0. Git 
+1. Download Flutter SDK Zip
+2. Extract It 
+3. Set the Path (Flutter/bin) (Flutter Full Path)
+4. Open Terminal (flutter —version)
+flutter doctor
+5. Download Android Studio
+6. Install it —> Add Dart and Flutter Plugin (From Configure —> Plugin) —> MarketPlace
+7. Choose Flutter Project —> Flutter Application
+Name, Location, SDK, Desc
+8. Tools —> Android SDK (HAXM , Emulator) , (Android Version) - Install
+9. Create AVD (Tools —> AVD —> Create AVD)
+10. Start the AVD
+MAC 
+11. Download Xcode from AppStore
+12. Run the Xcode Command
+13. Start the Simulator
+
+
+
+
